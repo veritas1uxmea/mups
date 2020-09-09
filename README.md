@@ -1,6 +1,6 @@
 # mups
 
-Data and code for Lee et al. 2017
+Data for Lee et al. 2017
 
 # Major urinary protein levels are associated with social status and context in mouse social hierarchies
 
